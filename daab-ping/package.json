@@ -1,0 +1,21 @@
+{
+  "name": "daab-ping",
+  "description": "demo bot",
+  "version": "0.1.0",
+  "private": true,
+  "author": "krdlab@gmail.com",
+  "scripts": {
+    "start": "bin/hubot run"
+  },
+  "keywords": [
+    "hubot",
+    "direct",
+    "bot",
+    "daab"
+  ],
+  "dependencies": {
+    "lisb-hubot": "^3.3.2",
+    "lisb-hubot-redis-brain": "^1.0.0",
+    "lisb-forever": "^1.0.0"
+  }
+}
